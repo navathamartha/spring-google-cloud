@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kiran Kanukuntla
+Build-Jdk: 13.0.2
+Implementation-Title: spring-gc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-gc/
+Created-By: Maven Integration for Eclipse
+
